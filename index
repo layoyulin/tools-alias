@@ -17,7 +17,7 @@
 #####               alias  server list                          #######
 #######################################################################
 #aliyun test server
-alias server-test='ssh root@42.121.4.242'
+alias suining='ssh root@42.121.4.242'
 
 
 
@@ -40,6 +40,8 @@ alias lg='ls | grep '
 
 #ls -lrtf | grep
 alias lag='ls -lrtf | grep '
+
+alias s='source '
 
 #git status ....
 alias gs='git status '
