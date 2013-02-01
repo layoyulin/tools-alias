@@ -50,18 +50,18 @@ alias gs='git status '
 ######################################################################
 ########         worker dir
 ##################################
-alias wp='cd ~/workplace/'
-alias ge='cd ~/workplace/ios/ge/'
-alias ke='cd ~/workplace/ios/ke/'
-alias ange='cd ~/workplace/android/ge/'
-alias angeserver='cd ~/workplace/android/ge/android-galaxy-server/'
-alias angeadmin='cd ~/workplace/android/ge/android-galaxy-admin-api/'
-alias angegateway='cd ~/workplace/android/ge/android-galaxy-gateway/'
-alias angepublic='cd ~/workplace/android/ge/android-galaxy-public/'
-alias anke='cd ~/workplace/android/ke/'
-alias ankeserver='cd ~/workplace/android/ke/kings-server'
-alias ankeadmin='cd ~/workplace/android/ke/android-kings-admin-api'
-alias ankegateway='cd ~/workplace/android/ke/android-kings-gateway'
+alias wp='cd ~/workplace/ && pwd'
+alias ge='cd ~/workplace/ios/ge/ && pwd'
+alias ke='cd ~/workplace/ios/ke/ && pwd'
+alias ange='cd ~/workplace/android/ge/ && pwd'
+alias angeserver='cd ~/workplace/android/ge/android-galaxy-server/ && pwd'
+alias angeadmin='cd ~/workplace/android/ge/android-galaxy-admin-api/ && pwd'
+alias angegateway='cd ~/workplace/android/ge/android-galaxy-gateway/ && pwd'
+alias angepublic='cd ~/workplace/android/ge/android-galaxy-public/ && pwd'
+alias anke='cd ~/workplace/android/ke/ && pwd'
+alias ankeserver='cd ~/workplace/android/ke/kings-server && pwd'
+alias ankeadmin='cd ~/workplace/android/ke/android-kings-admin-api && pwd'
+alias ankegateway='cd ~/workplace/android/ke/android-kings-gateway && pwd'
 
 
 
