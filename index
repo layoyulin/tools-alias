@@ -63,6 +63,8 @@ alias ankeserver='cd ~/workplace/android/ke/kings-server && pwd'
 alias ankeadmin='cd ~/workplace/android/ke/android-kings-admin-api && pwd'
 alias ankegateway='cd ~/workplace/android/ke/android-kings-gateway && pwd'
 
+alias devlib='cd ~/workplace/android/devlib && pwd'
+
 
 
 alias update-alias='cd ~/workplace/tools-alias/ && vi index'
